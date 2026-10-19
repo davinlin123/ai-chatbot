@@ -13,5 +13,5 @@ A Discord AI chatbot using gemini and google search.
 
 ## Setup
 - Install required packages
-- Add discord/gemini keys to your terminal
+- Privately store discord/gemini keys 
 - Run 'main.py'
